@@ -1,0 +1,48 @@
+PROJECT 1: ALARM SYSTEM
+
+* Everyone has things they want to keep secure. Microchips provide a powerful new way of protecting valuables.
+
+* In this project, students will build a simple alarm system that will turn on a buzzer and LED when the alarm is triggered by a 
+pushbutton.  
+
+PROJECT 2: Traffic Lights
+
+* Not only do people tell microchips what to do, microchips can also tell people 
+what to do. Therefore, it is important that they are sending the correct message. 
+
+* In this project, students will learn the importance of the instruction sequence and 
+timing functions while building their own traffic light from LEDs.
+
+PROJECT 3: Washing Machine
+
+* Microchips have the ability to take over many tasks that 
+once needed to be done by hand. However, these tasks 
+often require a set of instructions to be carried out in a 
+specific order. 
+
+* Students will learn more about giving instructions to microchips while they program their own washing machine.
+
+PROJECT 4: Street Lights
+
+* Electric lighting has transformed the way people live. However, it is important not to 
+waste energy. 
+
+* In this project, students will make a street light that only turns on when 
+required.
+
+PROJECT 5: Fridge Alarm
+
+* The refrigerator is a very useful device that keeps our food 
+from going bad.
+
+* Students will be making their own fridge alarm to help keep food fresh and 
+save electricity.
+
+PROJECT 6: Temperature Controller
+
+* While no one likes being too hot or too cold, there are certain situations 
+where keeping the temperature just right can mean the difference between 
+life and death. 
+
+* Students will use the temperature controller in this project to 
+monitor and adjust the temperature, similar to an incubator. 
