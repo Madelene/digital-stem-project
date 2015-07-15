@@ -84,7 +84,7 @@ header .navbar-fixed {
 
 .carousel-control.left,
 .carousel-control.right {
-	/*background-image: none;*/
+	background-image: none;
 }
 
 #gallery .item {
